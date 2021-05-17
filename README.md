@@ -42,11 +42,12 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Probabilistic-Planning-Papers/blob/master/p(21).pdf" style="text-decoration:none;">Probabilistic Planning via Heuristic Forward Search and Weighted Model Counting</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Probabilistic-Planning-Papers/blob/master/p(22).pdf" style="text-decoration:none;">Conditional, Probabilistic Planning: A Unifying Algorithm and Effective Search Control Mechanisms</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Probabilistic-Planning-Papers/blob/master/p(23).pdf" style="text-decoration:none;">Planning in probabilistic domains using a deterministic numeric planner</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Probabilistic-Planning-Papers/blob/master/p(24).pdf" style="text-decoration:none;">Probabilistic Planning with Sequential Monte Carlo methods</a></li>
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Probabilistic-Planning-Papers/blob/master/p(24).pdf" style="text-decoration:none;">Probabilistic Planning with Sequential Monte Carlo methods</a></li>
- 
-
+<li><a target="_blank" href="https://github.com/manjunath5496/Probabilistic-Planning-Papers/blob/master/p(25).pdf" style="text-decoration:none;">Compilation Based Approaches to
+Probabilistic Planning—Thesis Summary</a></li>
 
 
 
